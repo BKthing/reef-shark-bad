@@ -1,4 +1,4 @@
-package com.example.reef_shark.core.data;
+package com.reef_shark.core.data;
 
 public final class PIDCoeficients {
     private final int p;

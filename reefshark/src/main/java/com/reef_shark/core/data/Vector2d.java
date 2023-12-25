@@ -1,4 +1,4 @@
-package com.example.reef_shark.core.data;
+package com.reef_shark.core.data;
 
 public class Vector2d {
     private final int x;
